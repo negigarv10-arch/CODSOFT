@@ -6,7 +6,7 @@ It does *not represent all the work*, but highlights a few practical implementat
 
 ---
 
-## 📌 About the Internship
+## About the Internship
 
 - Internship Role: *Python Programming Intern*
 - Organization: *CodeSoft*
@@ -15,7 +15,7 @@ It does *not represent all the work*, but highlights a few practical implementat
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python (Core)
 - Basic File Handling
@@ -24,7 +24,7 @@ It does *not represent all the work*, but highlights a few practical implementat
 
 ---
 
-## 📂 Sample Projects
+## Sample Projects
 
 Below are *some of the projects* developed during the internship:
 
